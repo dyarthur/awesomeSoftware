@@ -4,8 +4,6 @@
 
 [awesomeSoftware](https://parg.co/bh01) is used to collect excellent softwares and tools.
 
-## Subject
-
 ### Python
 - [xmltodict](https://github.com/martinblech/xmltodict): A python module that makes working with XML feel like you are working with JSON
 
