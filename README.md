@@ -12,3 +12,4 @@
 - [google/googletest](https://github.com/google/googletest): Google Testing and Mocking Framework
 - [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus): A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration
 - [huihut/log4cplusplus](https://github.com/huihut/log4cplusplus): 基于 [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus) 封装的自用的 C++ 日志库
+- [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples): Useful CMake Examples
