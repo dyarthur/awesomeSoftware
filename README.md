@@ -14,3 +14,4 @@
 - [huihut/log4cplusplus](https://github.com/huihut/log4cplusplus): 基于 [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus) 封装的自用的 C++ 日志库
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples): Useful CMake Examples
 - [Lellansin/cmake-tutorial-cn](https://github.com/Lellansin/cmake-tutorial-cn): 官方 Cmake tutorial 中文版翻译, 在线阅读 [lellansin.gitbooks.io/cmake/content/](https://lellansin.gitbooks.io/cmake/content/)
+- [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial): CMake中文实战教程, 在线阅读 [brightxiaohan.github.io/CMakeTutorial/](https://brightxiaohan.github.io/CMakeTutorial/)
