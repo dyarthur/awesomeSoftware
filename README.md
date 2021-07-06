@@ -2,6 +2,9 @@
 
 [awesomeSoftware](https://parg.co/bh01) is used to collect excellent softwares and tools.
 
+### Commond-Line
+- [stedolan/jq](https://github.com/stedolan/jq): A lightweight and flexible command-line JSON processor. For more information read this article [Guide to Linux jq Command for JSON Processing](https://www.baeldung.com/linux/jq-command-json).
+
 ### Python
 - [martinblech/xmltodict](https://github.com/martinblech/xmltodict): A python module that makes working with XML feel like you are working with JSON
 
