@@ -13,3 +13,6 @@
 - [google/googletest](https://github.com/google/googletest): Google Testing and Mocking Framework
 - [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus): A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration
 - [huihut/log4cplusplus](https://github.com/huihut/log4cplusplus): 基于 [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus) 封装的自用的 C++ 日志库
+
+### Apps
+- [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan): 阿里云盘小白羊版 阿里云盘PC版
