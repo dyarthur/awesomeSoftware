@@ -16,7 +16,7 @@
 - [huihut/log4cplusplus](https://github.com/huihut/log4cplusplus): 基于 [log4cplus/log4cplus](https://github.com/log4cplus/log4cplus) 封装的自用的 C++ 日志库。
 
 ### OpenSource projects
-- [fluent/fluent-bit](https://github.com/fluent/fluent-bit): Fluent Bit is a super fast, lightweight, and highly scalable logging and metrics processor and forwarder. It is the preferred choice for cloud and containerized environments.
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit): [Fluent Bit](https://fluentbit.io/) is a super fast, lightweight, and highly scalable logging and metrics processor and forwarder. It is the preferred choice for cloud and containerized environments.
 
 ### Apps
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan): 阿里云盘小白羊版 阿里云盘PC版。
